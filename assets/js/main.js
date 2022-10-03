@@ -20,6 +20,48 @@ const productos = [
     imagen: '/assets/img/zap-3.png',
     precio: 200,
     unidades: 10
+  },
+  {
+    id: 4,
+    nombre: 'Zapatillas Reebook',
+    imagen: '/assets/img/zap-4.png',
+    precio: 200,
+    unidades: 6
+  },
+  {
+    id: 5,
+    nombre: 'Zapatillas Nike',
+    imagen: '/assets/img/zap-5.png',
+    precio: 250,
+    unidades: 4
+  },
+  {
+    id: 6,
+    nombre: 'Zapatillas Reebook',
+    imagen: '/assets/img/zap-6.png',
+    precio: 320,
+    unidades: 2
+  },
+  {
+    id: 7,
+    nombre: 'Zapatillas Nike',
+    imagen: '/assets/img/zap-7.png',
+    precio: 550,
+    unidades: 3
+  },
+  {
+    id: 8,
+    nombre: 'Zapatillas Adidas',
+    imagen: '/assets/img/zap-8.png',
+    precio: 200,
+    unidades: 7
+  },
+  {
+    id: 9,
+    nombre: 'Zapatillas Reebook',
+    imagen: '/assets/img/zap-9.png',
+    precio: 320,
+    unidades: 4
   }
 ]
 

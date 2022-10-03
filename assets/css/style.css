@@ -209,7 +209,7 @@ img {
   background-color: hsl(0deg 0% 96%);
   border-radius: 50px 50px 0 0;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
   height: 350px;
 }
 
@@ -247,6 +247,7 @@ img {
 /*=============== CART ===============*/
 .cart {
   margin-top: calc(1.5rem + var(--header-height));
+  color:#f0f0f0;
 }
 
 .cart__container {
@@ -304,7 +305,7 @@ img {
   border: none;
   outline: none;
   border-radius: 50%;
-  width: 35px;
+  width: 65px;
   height: 35px;
   display: inline-flex;
   justify-content: center;
